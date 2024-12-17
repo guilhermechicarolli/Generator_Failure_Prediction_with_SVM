@@ -1,4 +1,4 @@
-# Repositório dos dados do projeto de IC: "Predição de falhas de geradores de turbinas eólicas a partir de _Support Vector Machines_"
+# Repositório dos dados do projeto de pesquisa: "Predição de falhas de geradores de turbinas eólicas a partir de _Support Vector Machines_"
 
 **FUNDAÇÃO UNIVERSIDADE FEDERAL DO ABC**
 
